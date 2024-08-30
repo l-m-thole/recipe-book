@@ -4,6 +4,7 @@
 
 - Chickpeas
 - Tahini
+- Lemon
 
 
 ## Instructions
